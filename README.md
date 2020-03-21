@@ -9,4 +9,6 @@ So, first we list all the forms on the command line. Then, in response to reques
 Improve the code by creating blocks from more complex shapes 
 This project is licensed by MIT.
 
+© Vadim Stetsenko 2020
+
 
